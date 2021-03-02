@@ -47,7 +47,7 @@ docker build -t valheim .
 docker run -d -p 2457:2457/udp -v valheim_world:/root/.config/unity3d/IronGate/Valheim valheim
 ```
 
-Note that you can leave the raykrueger part out, because you're not me, and you're local names don't matter.
+Note that you can leave the raykrueger part out, because you're not me, and your local names don't matter.
 
 ## I was here
 
